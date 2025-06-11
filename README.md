@@ -14,7 +14,7 @@ A chatbot supporting English, Tamil, Hindi, Telugu, and Malayalam with real-time
 - deep_translator
 
 ## Backend
--run python backend code before running
+- run python backend code before running
 - /backend>python app.py
 
 
